@@ -73,8 +73,6 @@ The website is a retrospective of the MVP, its architecture, experiments, trade-
 - **Knowledge sharing** - good ideas become better when engineers exchange what they've learned.
 
 
-</div>
-
 ---
 
 ## 🤝 Let's Connect
