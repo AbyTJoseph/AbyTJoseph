@@ -11,14 +11,14 @@
 
 ## 👋 A Little About Me
 
-Hi, I'm **Aby Thannikal Joseph** — an engineer with a background in **Quality Engineering & Assurance**, a curiosity for emerging technology, and a habit of learning by building.
+Hi, I'm **Aby Thannikal Joseph** - an engineer with a background in **Quality Engineering & Assurance**, a curiosity for emerging technology, and a habit of learning by building.
 
 I enjoy working at the intersection of software quality, development, automation, cloud, and practical AI. What excites me most is understanding how a system works, where it can fail, and how thoughtful engineering can make it better.
 
 - 🧪 **Quality engineering:** Reliable testing, useful automation, and faster feedback.
 - 💻 **Software development:** Turning ideas into working applications and developer tools.
 - 🤖 **Applied AI:** Exploring how LLMs and intelligent workflows can solve practical problems.
-- ☁️ **Cloud & DevOps:** Interested in Azure, containers, and better delivery workflows.#
+- ☁️ **Cloud & DevOps:** Interested in Azure, containers, and better delivery workflows.
 - 💡 **My approach:** Stay curious. Experiment often. Share what I learn.
 
 ---
@@ -43,7 +43,7 @@ I enjoy working at the intersection of software quality, development, automation
 
 ## 🚀 Project Spotlight
 
-### [TestAbyLity.com](https://testabylity.com/) — GenAI for Software Testing
+### [TestAbyLity.com](https://testabylity.com/) - GenAI for Software Testing
 
 **Personal engineering project • Built in 2024 • MVP / technical showcase**
 
@@ -59,7 +59,7 @@ The prototype explored five workflows:
 
 **Built with:** React, Java, Spring Boot, Spring AI, Anthropic Claude, OpenAI, Hugging Face embeddings, Chroma DB, and Firebase.
 
-The website is a retrospective of the MVP, its architecture, experiments, trade-offs, and lessons learned — **not a production SaaS offering**.
+The website is a retrospective of the MVP, its architecture, experiments, trade-offs, and lessons learned - **not a production SaaS offering**.
 
 [![Explore TestAbyLity](https://img.shields.io/badge/Read%20the%20case%20study-TestAbyLity.com-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://testabylity.com/)
 
@@ -67,10 +67,10 @@ The website is a retrospective of the MVP, its architecture, experiments, trade-
 
 ## 🎯 What I Value
 
-- **Quality by design** — reliability should be part of the engineering process, not an afterthought.
-- **Practical innovation** — useful results matter more than hype.
-- **Continuous learning** — experiments, mistakes, and feedback are part of progress.
-- **Knowledge sharing** — good ideas become better when engineers exchange what they've learned.
+- **Quality by design** - reliability should be part of the engineering process, not an afterthought.
+- **Practical innovation** - useful results matter more than hype.
+- **Continuous learning** - experiments, mistakes, and feedback are part of progress.
+- **Knowledge sharing** - good ideas become better when engineers exchange what they've learned.
 
 
 </div>
